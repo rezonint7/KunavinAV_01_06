@@ -1,0 +1,15 @@
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\bin\Debug\net6.0\KunavinAV_01_06.exe
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\bin\Debug\net6.0\KunavinAV_01_06.deps.json
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\bin\Debug\net6.0\KunavinAV_01_06.runtimeconfig.json
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\bin\Debug\net6.0\KunavinAV_01_06.dll
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\bin\Debug\net6.0\KunavinAV_01_06.pdb
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.csproj.AssemblyReference.cache
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.AssemblyInfoInputs.cache
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.AssemblyInfo.cs
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.csproj.CoreCompileInputs.cache
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.dll
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\refint\KunavinAV_01_06.dll
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.pdb
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\KunavinAV_01_06.genruntimeconfig.cache
+C:\Users\st310-12\Desktop\KunavinAV_01_06\KunavinAV_01_06\obj\Debug\net6.0\ref\KunavinAV_01_06.dll
